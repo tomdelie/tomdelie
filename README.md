@@ -25,6 +25,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-original.svg" title="Python" alt="Python logo" width="24" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL logo" width="24" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony logo" width="24" />
+  <img src="https://i.imgur.com/6p9raMd.png" title="Godot" alt="Godot logo" width="24">
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
