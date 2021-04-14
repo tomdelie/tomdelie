@@ -12,6 +12,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel logo" width="24" />
   <img src="https://i.imgur.com/aP5my5K.png" title="Apollo GraphQL" alt="Apollo GraphQL logo" width="24" />
   <img src="https://i.imgur.com/rv4QFeV.png" title="Terraform" alt="Terraform logo" width="24" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/php/php-original.svg" title="PHP" alt="PHP logo" width="24" />
   <img src="https://i.imgur.com/BJwQVYn.png" title="TailwindCSS" alt="TailwindCSS logo" width="24" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize logo" width="24" />
 </p>
@@ -22,7 +23,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/go/go-original.svg" title="Go" alt="Go logo" width="24" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" title="React" alt="React logo" width="24" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-original.svg" title="Python" alt="Python logo" width="24" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/php/php-original.svg" title="PHP" alt="PHP logo" width="24" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL logo" width="24" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony logo" width="24" />
 </p>
