@@ -1,7 +1,7 @@
 <a align="right" href="https://fauux.neocities.org/" title="Statue from fauux's website"><img align="right" src="https://i.imgur.com/xkjvO5L.gif" /></a>
 
 <h3>Hey, I'm Tom Délié,</h3>
-<p>Student in web development</p>
+<p>Recently graduated in software engineering</p>
 <h3>Tech Stack</h3>
 <p>
   <span>Currently working with:</span><br /> 
