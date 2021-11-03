@@ -5,15 +5,14 @@
 <h3>Tech Stack</h3>
 <p>
   <span>Currently working with:</span><br /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/svelte/svelte-original.svg" title="Svelte" width="24" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript logo" width="24" />
   <img src="https://i.imgur.com/BJwQVYn.png" title="TailwindCSS" alt="TailwindCSS logo" width="24" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel logo" width="24" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS logo" width="24" />
 </p>
 <p>
   <span>Worked with:</span><br />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/php/php-original.svg" title="PHP" alt="PHP logo" width="24" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/svelte/svelte-original.svg" title="Svelte" width="24" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript logo" width="24" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize logo" width="24" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS logo" width="24" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB logo" width="24" />
