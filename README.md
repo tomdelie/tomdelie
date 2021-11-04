@@ -1,4 +1,4 @@
-<a align="right" href="https://fauux.neocities.org/" title="Statue from fauux's website"><img align="right" src="https://i.imgur.com/xkjvO5L.gif" /></a>
+<a align="right" href="https://app.daily.dev/tomdelie"><img align="right" src="https://api.daily.dev/devcards/d6bcc1ab72df4a63937d2624aa3ec1df.png?r=rop" width="300" alt="Tom's Dev Card"/></a>
 
 <h3>Hey, I'm Tom Délié,</h3>
 <p>Recently graduated in software engineering</p>
@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL logo" width="24" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony logo" width="24" />
   <img src="https://i.imgur.com/6p9raMd.png" title="Godot" alt="Godot logo" width="24">
-</p>
+</p><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomdelie&layout=compact&theme=radical&hide=css,html" />
