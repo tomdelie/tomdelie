@@ -1,4 +1,4 @@
-<a align="right" href="https://app.daily.dev/tomdelie"><img align="right" src="https://api.daily.dev/devcards/d6bcc1ab72df4a63937d2624aa3ec1df.png?r=rop" width="300" alt="Tom's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/tomdelie"><img align="right" src="./devcard.svg" width="300" alt="Tom's Dev Card"/></a>
 
 <h3>Hey, I'm Tom Délié,</h3>
 <p>Recently graduated in software engineering</p>
