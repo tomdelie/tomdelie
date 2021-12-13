@@ -1,5 +1,3 @@
-<a align="right" href="https://app.daily.dev/tomdelie"><img align="right" src="./devcard.svg" width="300" alt="Tom's Dev Card"/></a>
-
 <h3>Hey, I'm Tom Délié,</h3>
 <p>Recently graduated in software engineering</p>
 <h3>Tech Stack</h3>
