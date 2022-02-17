@@ -3,16 +3,16 @@
 <h3>Tech Stack</h3>
 <p>
   <span>Currently working with:</span><br /> 
-  <img src="./images/tailwindcss.svg" width="24" title="TailwindCSS" />
-  <img src="./images/laravel.svg" width="24" title="Laravel" />
   <img src="./images/vuejs.svg" width="24" title="VueJS" />
-</p>
-<p>
-  <span>Worked with:</span><br />
-  <img src="./images/svelte.svg" width="24" title="Svelte" />
   <img src="./images/typescript.svg" width="24" title="TypeScript" />
   <img src="./images/sequelize.svg" width="24" title="Sequelize" />
   <img src="./images/nodedotjs.svg" width="24" title="NodeJS" />
+</p>
+<p>
+  <span>Worked with:</span><br />
+  <img src="./images/tailwindcss.svg" width="24" title="TailwindCSS" />
+  <img src="./images/laravel.svg" width="24" title="Laravel" />
+  <img src="./images/svelte.svg" width="24" title="Svelte" />
   <img src="./images/mongodb.svg" width="24" title="MongoDB" />
   <img src="./images/apollographql.svg" width="24" title="Apollo GraphQL" />
   <img src="./images/terraform.svg" width="24" title="Terraform" />
