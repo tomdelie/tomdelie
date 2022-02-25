@@ -1,6 +1,4 @@
 <h3>Hey, I'm Tom Délié,</h3>
-<p>Recently graduated in software engineering</p>
-<h3>Tech Stack</h3>
 <p>
   <span>Currently working with:</span><br /> 
   <img src="./images/vuejs.svg" width="24" title="VueJS" />
