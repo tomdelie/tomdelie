@@ -26,3 +26,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomdelie&layout=compact&theme=github_dark&hide=css,html,shell,dockerfile" />
 </a>
+<br />
+<br />
+
+<a href="https://gitlab.com/tomdelie">GitLab Profile</a>
